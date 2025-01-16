@@ -1,0 +1,8 @@
+name: DeluxeMenusTabCompletion
+version: '1.0.0'
+main: com.github.goldmember33.spigot.DeluxeMenusTab
+api-version: '1.21'
+prefix: DeluxeMenusTabCompletion
+load: STARTUP
+authors: [ GoldMember33 ]
+depend: [ DeluxeMenus ]
